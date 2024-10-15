@@ -35,6 +35,9 @@ module.exports = {
       if (message.content === '!madolche') {
         message.reply('Bow to the Queen!');
       }
+      if (message.content === '!ursarctic') {
+        message.reply('Draw 7 and still mid');
+      }
       if (message.content === '$kitedrake') {
         message.reply('BAN KITEDRAKE IMMEDIATELY');
       }
